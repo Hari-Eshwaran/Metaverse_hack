@@ -1,0 +1,5 @@
+{
+  "name": "PaletteAI",
+  "description": "A personalized style-learning image generation platform. Upload reference images to extract a unique artistic DNA, then generate new artwork using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
